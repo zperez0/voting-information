@@ -1,3 +1,14 @@
 #voteInfo, #under-18 {
   display: none;
+  padding: 40px;
 }
+
+#under-18 {
+  text-align: center;
+}
+
+body {
+  margin: 20%;
+  background-color: #81B29A;
+}
+
